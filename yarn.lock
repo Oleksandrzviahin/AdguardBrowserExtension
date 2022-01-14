@@ -22,6 +22,14 @@
     "@babel/runtime" "^7.7.2"
     js-yaml "^3.13.1"
 
+"@adguard/scriptlets@^1.5.14":
+  version "1.5.14"
+  resolved "https://registry.yarnpkg.com/@adguard/scriptlets/-/scriptlets-1.5.14.tgz#2bf58adccc29303bfdd16964f465ad2e321450f8"
+  integrity sha512-n6PwtmBq2VKvYYt1EkoM21++EVaKXGXbn3j/8ldhEHRhkLX/XdQJa2Cwa2NTYSL4Jpxg6X1FY5+B+PS7534jVA==
+  dependencies:
+    "@babel/runtime" "^7.7.2"
+    js-yaml "^3.13.1"
+
 "@adguard/translate@^0.2.5":
   version "0.2.5"
   resolved "https://registry.yarnpkg.com/@adguard/translate/-/translate-0.2.5.tgz#a07c2393ace547fc515b8c27f586209aa79432a6"
