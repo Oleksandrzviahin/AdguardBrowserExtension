@@ -14,14 +14,6 @@
   dependencies:
     axios "^0.21.1"
 
-"@adguard/scriptlets@^1.5.11":
-  version "1.5.11"
-  resolved "https://registry.yarnpkg.com/@adguard/scriptlets/-/scriptlets-1.5.11.tgz#1b9188e4a7a4dca6489d3859b44f03398ef55285"
-  integrity sha512-m7MEjwJgzhIKew7f+U/AKGQnnuxKpGWUYs52O31Qc23owAQGkqAzk0Fjf2DxsUrzLU9gnWgOZgzfVTuDo9RxMw==
-  dependencies:
-    "@babel/runtime" "^7.7.2"
-    js-yaml "^3.13.1"
-
 "@adguard/scriptlets@^1.5.14":
   version "1.5.14"
   resolved "https://registry.yarnpkg.com/@adguard/scriptlets/-/scriptlets-1.5.14.tgz#2bf58adccc29303bfdd16964f465ad2e321450f8"
@@ -35,12 +27,12 @@
   resolved "https://registry.yarnpkg.com/@adguard/translate/-/translate-0.2.5.tgz#a07c2393ace547fc515b8c27f586209aa79432a6"
   integrity sha512-X2A/fgw4D/FSkNsaRAWYTkHrn8LS/M9qTcZoZ2b4RSmLgpT20Lrhrg7gUw7Fi5d1kdXLNxLdfNEBqcRmJ+QzBQ==
 
-"@adguard/tsurlfilter@^0.7.47":
-  version "0.7.47"
-  resolved "https://registry.yarnpkg.com/@adguard/tsurlfilter/-/tsurlfilter-0.7.47.tgz#cc3ba9e6968a5e06885bbc8c48eacc1a2b2570a6"
-  integrity sha512-XhuwkgAaks/hF8xA0/j6v2Wv5uHa0h2BAZ0bQQqQ6GHuAFNSMMbyK0QtSyyvVnQCq5HPi8odB+UQgjFH+iZIKw==
+"@adguard/tsurlfilter@^0.7.50":
+  version "0.7.50"
+  resolved "https://registry.yarnpkg.com/@adguard/tsurlfilter/-/tsurlfilter-0.7.50.tgz#a9ba9d78b1a4820420b6f332a569bc9db43613c0"
+  integrity sha512-sLmOYy3uVDWMrHvmbG8nq8ZVkU6F9TVPOHLKQMPWqVQQ3JQ4dsAwJOlfp2y+jzUz+Q33NkddhuwQkGhohagwbA==
   dependencies:
-    "@adguard/scriptlets" "^1.5.11"
+    "@adguard/scriptlets" "^1.5.14"
     "@types/ip6addr" "^0.2.3"
     "@types/netmask" "^1.0.30"
     "@types/punycode" "^2.1.0"
